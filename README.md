@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvncyldz33" alt="kvncyldz33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@kvncyldz" target="blank"><img src="https://img.shields.io/twitter/follow/@kvncyldz?logo=twitter&style=for-the-badge" alt="@kvncyldz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kvncyldz" target="blank"><img src="https://img.shields.io/twitter/follow/kvncyldz?logo=twitter&style=for-the-badge" alt="kvncyldz" /></a> </p>
 
 - 🌱 I’m currently learning **Mediapie & Tensorflow**
 
